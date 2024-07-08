@@ -32,16 +32,6 @@ Here are some of the skills I possess, grouped into categories:
 ### Algorithms and Data Structures
 - Data Structures & Algorithms
 
-## Projects
-
-I have worked on several interesting projects. Here are a few examples:
-
-- [Project 1](link-to-project-1): A brief description of project 1.
-- [Project 2](link-to-project-2): A brief description of project 2.
-- [Project 3](link-to-project-3): A brief description of project 3.
-
-Feel free to explore my GitHub repositories for more projects and code examples.
-
 ## Contact Me
 
 I'm always open to new opportunities and collaborations. You can reach out to me via:
